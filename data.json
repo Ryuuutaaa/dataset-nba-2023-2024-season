@@ -2112,7 +2112,109 @@
             "Matt Nielsen",
             "Darius Songaila"
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 400,
+            "name": "Tre Jones",
+            "position": "PG",
+            "jersey_number": 33,
+            "photo_url": "URL_TO_TRE_JONES_PHOTO"
+          },
+          {
+            "player_id": 401,
+            "name": "Devin Vassell",
+            "position": "SG",
+            "jersey_number": 24,
+            "photo_url": "URL_TO_DEVIN_VASSELL_PHOTO"
+          },
+          {
+            "player_id": 402,
+            "name": "Keldon Johnson",
+            "position": "SF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_KELDON_JOHNSON_PHOTO"
+          },
+          {
+            "player_id": 403,
+            "name": "Victor Wembanyama",
+            "position": "PF",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_VICTOR_WEMBANYAMA_PHOTO"
+          },
+          {
+            "player_id": 404,
+            "name": "Zach Collins",
+            "position": "C",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_ZACH_COLLINS_PHOTO"
+          }
+        ],
+        "bench": [
+          {
+            "player_id": 405,
+            "name": "Jeremy Sochan",
+            "position": "PF",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_JEREMY_SOCHAN_PHOTO"
+          },
+          {
+            "player_id": 406,
+            "name": "Malaki Branham",
+            "position": "SG",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_MALAKI_BRANHAM_PHOTO"
+          },
+          {
+            "player_id": 407,
+            "name": "Cedi Osman",
+            "position": "SF",
+            "jersey_number": 16,
+            "photo_url": "URL_TO_CEDI_OSMAN_PHOTO"
+          },
+          {
+            "player_id": 408,
+            "name": "Doug McDermott",
+            "position": "SF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_DOUG_MCDERMOTT_PHOTO"
+          },
+          {
+            "player_id": 409,
+            "name": "Dominick Barlow",
+            "position": "PF",
+            "jersey_number": 26,
+            "photo_url": "URL_TO_DOMINICK_BARLOW_PHOTO"
+          },
+          {
+            "player_id": 410,
+            "name": "Sandro Mamukelashvili",
+            "position": "C",
+            "jersey_number": 54,
+            "photo_url": "URL_TO_SANDRO_MAMUKELASHVILI_PHOTO"
+          },
+          {
+            "player_id": 411,
+            "name": "Blake Wesley",
+            "position": "SG",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_BLAKE_WESLEY_PHOTO"
+          },
+          {
+            "player_id": 412,
+            "name": "Charles Bassey",
+            "position": "C",
+            "jersey_number": 28,
+            "photo_url": "URL_TO_CHARLES_BASSEY_PHOTO"
+          },
+          {
+            "player_id": 413,
+            "name": "RaiQuan Gray",
+            "position": "PF",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_RAiQUAN_GRAY_PHOTO"
+          }
+        ]
       }
     ]
   }
