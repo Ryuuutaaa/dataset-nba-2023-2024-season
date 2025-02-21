@@ -266,6 +266,105 @@
             "photo_url": "URL_TO_DARIQ_WHITEHEAD_PHOTO"
           }
         ]
+      },
+      {
+        "team_id": 3,
+        "name": "New York Knicks",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "arena": "Madison Square Garden",
+        "arena_photo_url": "URL_TO_MADISON_SQUARE_GARDEN_PHOTO",
+        "logo_url": "URL_TO_NEW_YORK_KNICKS_LOGO",
+        "coaching_staff": {
+          "head_coach": {
+            "name": "Tom Thibodeau",
+            "photo_url": "URL_TO_TOM_THIBODEAU_PHOTO"
+          },
+          "assistant_coaches": [
+            {
+              "name": "Johnnie Bryant",
+              "photo_url": "URL_TO_JOHNNIE_BRYANT_PHOTO"
+            },
+            {
+              "name": "Darren Erman",
+              "photo_url": "URL_TO_DARREN_ERMAN_PHOTO"
+            },
+            {
+              "name": "Andy Greer",
+              "photo_url": "URL_TO_ANDY_GREER_PHOTO"
+            },
+            {
+              "name": "Larry Greer",
+              "photo_url": "URL_TO_LARRY_GREER_PHOTO"
+            }
+          ]
+        }
+      },
+      {
+        "team_id": 4,
+        "name": "Philadelphia 76ers",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "arena": "Wells Fargo Center",
+        "arena_photo_url": "URL_TO_WELLS_FARGO_CENTER_PHOTO",
+        "logo_url": "URL_TO_PHILADELPHIA_76ERS_LOGO",
+        "coaching_staff": {
+          "head_coach": {
+            "name": "Doc Rivers",
+            "photo_url": "URL_TO_DOC_RIVERS_PHOTO"
+          },
+          "assistant_coaches": [
+            {
+              "name": "Sam Cassell",
+              "photo_url": "URL_TO_SAM_CASSELL_PHOTO"
+            },
+            {
+              "name": "Dan Burke",
+              "photo_url": "URL_TO_DAN_BURKE_PHOTO"
+            },
+            {
+              "name": "Eric Hughes",
+              "photo_url": "URL_TO_ERIC_HUGHES_PHOTO"
+            },
+            {
+              "name": "Paco Garcia",
+              "photo_url": "URL_TO_PACO_GARCIA_PHOTO"
+            }
+          ]
+        }
+      },
+      {
+        "team_id": 5,
+        "name": "Toronto Raptors",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "arena": "Scotiabank Arena",
+        "arena_photo_url": "URL_TO_SCOTIABANK_ARENA_PHOTO",
+        "logo_url": "URL_TO_TORONTO_RAPTORS_LOGO",
+        "coaching_staff": {
+          "head_coach": {
+            "name": "Nick Nurse",
+            "photo_url": "URL_TO_NICK_NURSE_PHOTO"
+          },
+          "assistant_coaches": [
+            {
+              "name": "Chris Finch",
+              "photo_url": "URL_TO_CHRIS_FINCH_PHOTO"
+            },
+            {
+              "name": "Adrian Griffin",
+              "photo_url": "URL_TO_ADRIAN_GRIFFIN_PHOTO"
+            },
+            {
+              "name": "Eric Khoury",
+              "photo_url": "URL_TO_ERIC_KHOURY_PHOTO"
+            },
+            {
+              "name": "Jon Goodwillie",
+              "photo_url": "URL_TO_JON_GOODWILLIE_PHOTO"
+            }
+          ]
+        }
       }
     ],
     "Central": [
