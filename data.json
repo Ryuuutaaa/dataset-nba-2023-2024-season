@@ -1994,14 +1994,125 @@
             "Fred Vinson",
             "Jarron Collins"
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 386,
+            "name": "CJ McCollum",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_CJ_MC_COLLUM_PHOTO"
+          },
+          {
+            "player_id": 387,
+            "name": "Brandon Ingram",
+            "position": "SF",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_BRANDON_INGRAM_PHOTO"
+          },
+          {
+            "player_id": 388,
+            "name": "Herbert Jones",
+            "position": "SF",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_HERBERT_JONES_PHOTO"
+          },
+          {
+            "player_id": 389,
+            "name": "Zion Williamson",
+            "position": "PF",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_ZION_WILLIAMSON_PHOTO"
+          },
+          {
+            "player_id": 390,
+            "name": "Jonas Valančiūnas",
+            "position": "C",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_JONAS_VALANCIUNAS_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 391,
+            "name": "Trey Murphy III",
+            "position": "SF",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_TREY_MURPHY_III_PHOTO"
+          },
+          {
+            "player_id": 392,
+            "name": "Larry Nance Jr.",
+            "position": "PF",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_LARRY_NANCE_JR_PHOTO"
+          },
+          {
+            "player_id": 393,
+            "name": "Jose Alvarado",
+            "position": "PG",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_JOSE_ALVARADO_PHOTO"
+          },
+          {
+            "player_id": 394,
+            "name": "Naji Marshall",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_NAJI_MARSHALL_PHOTO"
+          },
+          {
+            "player_id": 395,
+            "name": "Dyson Daniels",
+            "position": "SG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_DYSON_DANIELS_PHOTO"
+          },
+          {
+            "player_id": 396,
+            "name": "Kira Lewis Jr.",
+            "position": "PG",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_KIRA_LEWIS_JR_PHOTO"
+          },
+          {
+            "player_id": 397,
+            "name": "Cody Zeller",
+            "position": "C",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_CODY_ZELLER_PHOTO"
+          },
+          {
+            "player_id": 398,
+            "name": "E.J. Liddell",
+            "position": "PF",
+            "jersey_number": 32,
+            "photo_url": "URL_TO_EJ_LIDDELL_PHOTO"
+          },
+          {
+            "player_id": 399,
+            "name": "Jeremiah Robinson-Earl",
+            "position": "PF",
+            "jersey_number": 50,
+            "photo_url": "URL_TO_JEREMIAH_ROBINSON_EARL_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 30,
         "name": "San Antonio Spurs",
         "conference": "Western",
         "division": "Southwest",
-        "arena": "Frost Bank Center"
+        "arena": "Frost Bank Center",
+        "coaching_staff": {
+          "head_coach": "Gregg Popovich",
+          "assistant_coaches": [
+            "Brett Brown",
+            "Mitch Johnson",
+            "Matt Nielsen",
+            "Darius Songaila"
+          ]
+        }
       }
     ]
   }
