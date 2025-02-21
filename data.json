@@ -1758,21 +1758,243 @@
             "Mahmoud Abdelfattah",
             "Mike Batiste"
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 358,
+            "name": "Fred VanVleet",
+            "position": "PG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_FRED_VANVLEET_PHOTO"
+          },
+          {
+            "player_id": 359,
+            "name": "Jalen Green",
+            "position": "SG",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_JALEN_GREEN_PHOTO"
+          },
+          {
+            "player_id": 360,
+            "name": "Dillon Brooks",
+            "position": "SF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_DILLON_BROOKS_PHOTO"
+          },
+          {
+            "player_id": 361,
+            "name": "Jabari Smith Jr.",
+            "position": "PF",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_JABARI_SMITH_JR_PHOTO"
+          },
+          {
+            "player_id": 362,
+            "name": "Alperen Şengün",
+            "position": "C",
+            "jersey_number": 28,
+            "photo_url": "URL_TO_ALPEREN_ŞENG_N_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 363,
+            "name": "Amen Thompson",
+            "position": "PG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_AMEN_THOMPSON_PHOTO"
+          },
+          {
+            "player_id": 364,
+            "name": "Cam Whitmore",
+            "position": "SF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_CAM_WHITMORE_PHOTO"
+          },
+          {
+            "player_id": 365,
+            "name": "Tari Eason",
+            "position": "PF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_TARI_EASON_PHOTO"
+          },
+          {
+            "player_id": 366,
+            "name": "Jeff Green",
+            "position": "PF",
+            "jersey_number": 32,
+            "photo_url": "URL_TO_JEFF_GREEN_PHOTO"
+          },
+          {
+            "player_id": 367,
+            "name": "Jock Landale",
+            "position": "C",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_JOCK_LANDALE_PHOTO"
+          },
+          {
+            "player_id": 368,
+            "name": "Aaron Holiday",
+            "position": "PG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_AARON_HOLIDAY_PHOTO"
+          },
+          {
+            "player_id": 369,
+            "name": "Reggie Bullock Jr.",
+            "position": "SF",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_REGGIE_BULLOCK_JR_PHOTO"
+          },
+          {
+            "player_id": 370,
+            "name": "Nate Williams",
+            "position": "SG",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_NATE_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 371,
+            "name": "Boban Marjanović",
+            "position": "C",
+            "jersey_number": 51,
+            "photo_url": "URL_TO_BOBAN_MARJANOVIĆ_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 28,
         "name": "Memphis Grizzlies",
         "conference": "Western",
         "division": "Southwest",
-        "arena": "FedExForum"
+        "arena": "FedExForum",
+        "coaching_staff": {
+          "head_coach": "Taylor Jenkins",
+          "assistant_coaches": [
+            "Brad Jones",
+            "Darko Rajaković",
+            "Scoonie Penn",
+            "David McClure"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 372,
+            "name": "Ja Morant",
+            "position": "PG",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_JA_MORANT_PHOTO"
+          },
+          {
+            "player_id": 373,
+            "name": "Desmond Bane",
+            "position": "SG",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_DESMOND_BANE_PHOTO"
+          },
+          {
+            "player_id": 374,
+            "name": "Ziaire Williams",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_ZIAIRE_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 375,
+            "name": "Jaren Jackson Jr.",
+            "position": "PF",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_JAREN_JACKSON_JR_PHOTO"
+          },
+          {
+            "player_id": 376,
+            "name": "Steven Adams",
+            "position": "C",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_STEVEN_ADAMS_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 377,
+            "name": "Marcus Smart",
+            "position": "PG",
+            "jersey_number": 36,
+            "photo_url": "URL_TO_MARCUS_SMART_PHOTO"
+          },
+          {
+            "player_id": 378,
+            "name": "Luke Kennard",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_LUKE_KENNARD_PHOTO"
+          },
+          {
+            "player_id": 379,
+            "name": "David Roddy",
+            "position": "SF",
+            "jersey_number": 27,
+            "photo_url": "URL_TO_DAVID_RODDY_PHOTO"
+          },
+          {
+            "player_id": 380,
+            "name": "Santi Aldama",
+            "position": "PF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_SANTI_ALDAMA_PHOTO"
+          },
+          {
+            "player_id": 381,
+            "name": "Xavier Tillman",
+            "position": "C",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_XAVIER_TILLMAN_PHOTO"
+          },
+          {
+            "player_id": 382,
+            "name": "John Konchar",
+            "position": "SG",
+            "jersey_number": 46,
+            "photo_url": "URL_TO_JOHN_KONCHAR_PHOTO"
+          },
+          {
+            "player_id": 383,
+            "name": "Jake LaRavia",
+            "position": "SF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_JAKE_LARAVIA_PHOTO"
+          },
+          {
+            "player_id": 384,
+            "name": "Vince Williams Jr.",
+            "position": "SF",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_VINCE_WILLIAMS_JR_PHOTO"
+          },
+          {
+            "player_id": 385,
+            "name": "Kenneth Lofton Jr.",
+            "position": "PF",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_KENNETH_LOFTON_JR_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 29,
         "name": "New Orleans Pelicans",
         "conference": "Western",
         "division": "Southwest",
-        "arena": "Smoothie King Center"
+        "arena": "Smoothie King Center",
+        "coaching_staff": {
+          "head_coach": "Willie Green",
+          "assistant_coaches": [
+            "Teresa Weatherspoon",
+            "Casey Hill",
+            "Fred Vinson",
+            "Jarron Collins"
+          ]
+        }
       },
       {
         "team_id": 30,
