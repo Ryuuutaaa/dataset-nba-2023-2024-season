@@ -433,7 +433,109 @@
               "photo_url": "URL_TO_PACO_GARCIA_PHOTO"
             }
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 43,
+            "name": "Tyrese Maxey",
+            "position": "PG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_TYRESE_MAXEY_PHOTO"
+          },
+          {
+            "player_id": 44,
+            "name": "Kelly Oubre Jr.",
+            "position": "SG",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_KELLY_OUBRE_JR_PHOTO"
+          },
+          {
+            "player_id": 45,
+            "name": "Caleb Martin",
+            "position": "SF",
+            "jersey_number": 16,
+            "photo_url": "URL_TO_CALEB_MARTIN_PHOTO"
+          },
+          {
+            "player_id": 46,
+            "name": "Tobias Harris",
+            "position": "PF",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_TOBIAS_HARRIS_PHOTO"
+          },
+          {
+            "player_id": 47,
+            "name": "Joel Embiid",
+            "position": "C",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_JOEL_EMBIID_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 48,
+            "name": "De'Anthony Melton",
+            "position": "SG",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_DEANTHONY_MELTON_PHOTO"
+          },
+          {
+            "player_id": 49,
+            "name": "Kyle Lowry",
+            "position": "PG",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_KYLE_LOWRY_PHOTO"
+          },
+          {
+            "player_id": 50,
+            "name": "Paul Reed",
+            "position": "PF/C",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_PAUL_REED_PHOTO"
+          },
+          {
+            "player_id": 51,
+            "name": "Nicolas Batum",
+            "position": "SF/PF",
+            "jersey_number": 40,
+            "photo_url": "URL_TO_NICOLAS_BATUM_PHOTO"
+          },
+          {
+            "player_id": 52,
+            "name": "Buddy Hield",
+            "position": "SG",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_BUDDY_HIELD_PHOTO"
+          },
+          {
+            "player_id": 53,
+            "name": "Andre Drummond",
+            "position": "C",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_ANDRE_DRUMMOND_PHOTO"
+          },
+          {
+            "player_id": 54,
+            "name": "KJ Martin",
+            "position": "PF",
+            "jersey_number": 45,
+            "photo_url": "URL_TO_KJ_MARTIN_PHOTO"
+          },
+          {
+            "player_id": 55,
+            "name": "Ricky Council IV",
+            "position": "SG/SF",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_RICKY_COUNCIL_IV_PHOTO"
+          },
+          {
+            "player_id": 56,
+            "name": "Jared McCain",
+            "position": "SG",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_JARED_MCCAIN_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 5,
