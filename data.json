@@ -140,14 +140,28 @@
         "conference": "Eastern",
         "division": "Atlantic",
         "arena": "Barclays Center",
+        "arena_photo_url": "URL_TO_BARCLAYS_CENTER_PHOTO",
         "logo_url": "URL_TO_BROOKLYN_NETS_LOGO",
         "coaching_staff": {
           "head_coach": "Jordi Fernandez",
+          "head_coach_photo_url": "URL_TO_JORDI_FERNANDEZ_PHOTO",
           "assistant_coaches": [
-            "Kevin Ollie",
-            "Dan Hurley",
-            "Trevor Hendry",
-            "Ryan Forehan-Kelly"
+            {
+              "name": "Kevin Ollie",
+              "photo_url": "URL_TO_KEVIN_OLLIE_PHOTO"
+            },
+            {
+              "name": "Dan Hurley",
+              "photo_url": "URL_TO_DAN_HURLEY_PHOTO"
+            },
+            {
+              "name": "Trevor Hendry",
+              "photo_url": "URL_TO_TREVOR_HENDRY_PHOTO"
+            },
+            {
+              "name": "Ryan Forehan-Kelly",
+              "photo_url": "URL_TO_RYAN_FOREHAN_KELLY_PHOTO"
+            }
           ]
         },
         "starting_five": [
