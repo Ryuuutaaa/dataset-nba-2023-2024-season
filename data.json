@@ -1497,21 +1497,280 @@
             "player_id": 328,
             "name": "Bol Bol",
             "position": "C",
-            "jersey_number": 11
+            "jersey_number": 11,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
           },
           {
             "player_id": 329,
             "name": "Saben Lee",
             "position": "PG",
-            "jersey_number": 38
-          },
-          
+            "jersey_number": 38,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          }
+        ]
+      },
+
       {
         "team_id": 25,
         "name": "Sacramento Kings",
         "conference": "Western",
         "division": "Pacific",
-        "arena": "Golden 1 Center"
+        "arena": "Golden 1 Center",
+        "coaching_staff": {
+          "head_coach": "Mike Brown",
+          "associate_head_coach": "Jordi Fernandez",
+          "assistant_coaches": ["Luke Loucks", "Doug Christie", "Jay Triano"]
+        },
+        "starting_five": [
+          {
+            "player_id": 330,
+            "name": "De'Aaron Fox",
+            "position": "PG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          },
+          {
+            "player_id": 331,
+            "name": "Kevin Huerter",
+            "position": "SG",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          },
+          {
+            "player_id": 332,
+            "name": "Harrison Barnes",
+            "position": "SF",
+            "jersey_number": 40,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          },
+          {
+            "player_id": 333,
+            "name": "Keegan Murray",
+            "position": "PF",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          },
+          {
+            "player_id": 334,
+            "name": "Domantas Sabonis",
+            "position": "C",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 335,
+            "name": "Malik Monk",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_MALIK_MONK_PHOTO"
+          },
+          {
+            "player_id": 336,
+            "name": "Davion Mitchell",
+            "position": "PG",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_DAVION_MITCHELL_PHOTO"
+          },
+          {
+            "player_id": 337,
+            "name": "Trey Lyles",
+            "position": "PF",
+            "jersey_number": 41,
+            "photo_url": "URL_TO_TREY_LYLES_PHOTO"
+          },
+          {
+            "player_id": 338,
+            "name": "Chris Duarte",
+            "position": "SG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_CHRIS_DUARTE_PHOTO"
+          },
+          {
+            "player_id": 339,
+            "name": "Alex Len",
+            "position": "C",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_ALEX_LEN_PHOTO"
+          },
+          {
+            "player_id": 340,
+            "name": "Sasha Vezenkov",
+            "position": "PF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_SASHA_VEZENKOV_PHOTO"
+          },
+          {
+            "player_id": 341,
+            "name": "Kessler Edwards",
+            "position": "SF",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_KESSLER_EDWARDS_PHOTO"
+          },
+          {
+            "player_id": 342,
+            "name": "Colby Jones",
+            "position": "SG",
+            "jersey_number": 20,
+            "photo_url": "URL_TO_COLBY_JONES_PHOTO"
+          },
+          {
+            "player_id": 343,
+            "name": "Jalen Slawson",
+            "position": "PF",
+            "jersey_number": 18,
+            "photo_url": "URL_TO_JALEN_SLAWSON_PHOTO"
+          }
+        ]
+      }
+    ],
+    "Southwest": [
+      {
+        "team_id": 26,
+        "name": "Dallas Mavericks",
+        "conference": "Western",
+        "division": "Southwest",
+        "arena": "American Airlines Center",
+        "coaching_staff": {
+          "head_coach": "Jason Kidd",
+          "assistant_coaches": [
+            "Sean Sweeney",
+            "Greg St. Jean",
+            "Jared Dudley",
+            "God Shammgod"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 344,
+            "name": "Luka Dončić",
+            "position": "PG",
+            "jersey_number": 77,
+            "photo_url": "URL_TO_LUKA_DONČIĆ_PHOTO"
+          },
+          {
+            "player_id": 345,
+            "name": "Kyrie Irving",
+            "position": "SG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_KYRIE_IRVING_PHOTO"
+          },
+          {
+            "player_id": 346,
+            "name": "Derrick Jones Jr.",
+            "position": "SF",
+            "jersey_number": 55,
+            "photo_url": "URL_TO_DERRICK_JONES_JR_PHOTO"
+          },
+          {
+            "player_id": 347,
+            "name": "P.J. Washington",
+            "position": "PF",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_PJ_WASHINGTON_PHOTO"
+          },
+          {
+            "player_id": 348,
+            "name": "Daniel Gafford",
+            "position": "C",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_DANIEL_GAFFORD_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 349,
+            "name": "Tim Hardaway Jr.",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_TIM_HARDWAY_JR_PHOTO"
+          },
+          {
+            "player_id": 350,
+            "name": "Dante Exum",
+            "position": "PG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_DANTE_EXUM_PHOTO"
+          },
+          {
+            "player_id": 351,
+            "name": "Josh Green",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_JOSH_GREEN_PHOTO"
+          },
+          {
+            "player_id": 352,
+            "name": "Maxi Kleber",
+            "position": "PF",
+            "jersey_number": 42,
+            "photo_url": "URL_TO_MAXI_KLEBER_PHOTO"
+          },
+          {
+            "player_id": 353,
+            "name": "Dwight Powell",
+            "position": "C",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_DWIGHT_POWELL_PHOTO"
+          },
+          {
+            "player_id": 354,
+            "name": "Jaden Hardy",
+            "position": "SG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_JADEN_HARDY_PHOTO"
+          },
+          {
+            "player_id": 355,
+            "name": "Markieff Morris",
+            "position": "PF",
+            "jersey_number": 88,
+            "photo_url": "URL_TO_MARKIEFF_MORRIS_PHOTO"
+          },
+          {
+            "player_id": 356,
+            "name": "A.J. Lawson",
+            "position": "SF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_AJ_LAWSON_PHOTO"
+          },
+          {
+            "player_id": 357,
+            "name": "Greg Brown III",
+            "position": "PF",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_GREG_BROWN_III_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 27,
+        "name": "Houston Rockets",
+        "conference": "Western",
+        "division": "Southwest",
+        "arena": "Toyota Center"
+      },
+      {
+        "team_id": 28,
+        "name": "Memphis Grizzlies",
+        "conference": "Western",
+        "division": "Southwest",
+        "arena": "FedExForum"
+      },
+      {
+        "team_id": 29,
+        "name": "New Orleans Pelicans",
+        "conference": "Western",
+        "division": "Southwest",
+        "arena": "Smoothie King Center"
+      },
+      {
+        "team_id": 30,
+        "name": "San Antonio Spurs",
+        "conference": "Western",
+        "division": "Southwest",
+        "arena": "Frost Bank Center"
       }
     ]
   }
