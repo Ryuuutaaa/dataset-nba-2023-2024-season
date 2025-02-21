@@ -1,0 +1,1195 @@
+{
+  "Eastern": {
+    "Atlantic": [
+      {
+        "team_id": 1,
+        "name": "Boston Celtics",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "arena": "TD Garden",
+        "logo_url": "URL_TO_BOSTON_CELTICS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Joe Mazzulla",
+          "assistant_coaches": [
+            "Charles Lee",
+            "Sam Cassell",
+            "Aaron Miles",
+            "D.J. MacLeay"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 1,
+            "name": "Jrue Holiday",
+            "position": "PG",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_JRUE_HOLIDAY_PHOTO"
+          },
+          {
+            "player_id": 2,
+            "name": "Derrick White",
+            "position": "SG",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_DERRICK_WHITE_PHOTO"
+          },
+          {
+            "player_id": 3,
+            "name": "Jaylen Brown",
+            "position": "SF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_JAYLEN_BROWN_PHOTO"
+          },
+          {
+            "player_id": 4,
+            "name": "Jayson Tatum",
+            "position": "PF",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_JAYSON_TATUM_PHOTO"
+          },
+          {
+            "player_id": 5,
+            "name": "Kristaps Porzingis",
+            "position": "C",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_KRISTAPS_PORZINGIS_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 6,
+            "name": "Al Horford",
+            "position": "C/PF",
+            "jersey_number": 42,
+            "photo_url": "URL_TO_AL_HORFORD_PHOTO"
+          },
+          {
+            "player_id": 7,
+            "name": "Payton Pritchard",
+            "position": "PG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_PAYTON_PRITCHARD_PHOTO"
+          },
+          {
+            "player_id": 8,
+            "name": "Sam Hauser",
+            "position": "SF",
+            "jersey_number": 30,
+            "photo_url": "URL_TO_SAM_HAUSER_PHOTO"
+          },
+          {
+            "player_id": 9,
+            "name": "Xavier Tillman",
+            "position": "PF/C",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_XAVIER_TILLMAN_PHOTO"
+          },
+          {
+            "player_id": 10,
+            "name": "Luke Kornet",
+            "position": "C",
+            "jersey_number": 40,
+            "photo_url": "URL_TO_LUKE_KORNET_PHOTO"
+          },
+          {
+            "player_id": 11,
+            "name": "Oshae Brissett",
+            "position": "SF/PF",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_OSHAE_BRISSETT_PHOTO"
+          },
+          {
+            "player_id": 12,
+            "name": "Svi Mykhailiuk",
+            "position": "SG/SF",
+            "jersey_number": 50,
+            "photo_url": "URL_TO_SVI_MYKHAILIUK_PHOTO"
+          },
+          {
+            "player_id": 13,
+            "name": "Jaden Springer",
+            "position": "SG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_JADEN_SPRINGER_PHOTO"
+          },
+          {
+            "player_id": 14,
+            "name": "Neemias Queta",
+            "position": "C",
+            "jersey_number": 88,
+            "photo_url": "URL_TO_NEEMIAS_QUETA_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 2,
+        "name": "Brooklyn Nets",
+        "conference": "Eastern",
+        "division": "Atlantic",
+        "arena": "Barclays Center",
+        "logo_url": "URL_TO_BROOKLYN_NETS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Jordi Fernandez",
+          "assistant_coaches": [
+            "Kevin Ollie",
+            "Dan Hurley",
+            "Trevor Hendry",
+            "Ryan Forehan-Kelly"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 15,
+            "name": "Dennis Schröder",
+            "position": "PG",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_DENNIS_SCHRODER_PHOTO"
+          },
+          {
+            "player_id": 16,
+            "name": "Cam Thomas",
+            "position": "SG",
+            "jersey_number": 24,
+            "photo_url": "URL_TO_CAM_THOMAS_PHOTO"
+          },
+          {
+            "player_id": 17,
+            "name": "Cameron Johnson",
+            "position": "SF",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_CAMERON_JOHNSON_PHOTO"
+          },
+          {
+            "player_id": 18,
+            "name": "Dorian Finney-Smith",
+            "position": "PF",
+            "jersey_number": 28,
+            "photo_url": "URL_TO_DORIAN_FINNEY_SMITH_PHOTO"
+          },
+          {
+            "player_id": 19,
+            "name": "Nic Claxton",
+            "position": "C",
+            "jersey_number": 33,
+            "photo_url": "URL_TO_NIC_CLAXTON_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 20,
+            "name": "Trendon Watford",
+            "position": "PF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_TRENDON_WATFORD_PHOTO"
+          },
+          {
+            "player_id": 21,
+            "name": "Ben Simmons",
+            "position": "PG/PF",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_BEN_SIMMONS_PHOTO"
+          },
+          {
+            "player_id": 22,
+            "name": "Day'Ron Sharpe",
+            "position": "C",
+            "jersey_number": 20,
+            "photo_url": "URL_TO_DAYRON_SHARPE_PHOTO"
+          },
+          {
+            "player_id": 23,
+            "name": "Lonnie Walker IV",
+            "position": "SG",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_LONNIE_WALKER_IV_PHOTO"
+          },
+          {
+            "player_id": 24,
+            "name": "Keita Bates-Diop",
+            "position": "SF/PF",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_KEITA_BATES_DIOP_PHOTO"
+          },
+          {
+            "player_id": 25,
+            "name": "Jalen Wilson",
+            "position": "SF",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_JALEN_WILSON_PHOTO"
+          },
+          {
+            "player_id": 26,
+            "name": "Keon Johnson",
+            "position": "SG",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_KEON_JOHNSON_PHOTO"
+          },
+          {
+            "player_id": 27,
+            "name": "Noah Clowney",
+            "position": "PF/C",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_NOAH_CLOWNEY_PHOTO"
+          },
+          {
+            "player_id": 28,
+            "name": "Dariq Whitehead",
+            "position": "SG/SF",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_DARIQ_WHITEHEAD_PHOTO"
+          }
+        ]
+      }
+    ],
+    "Central": [
+      {
+        "team_id": 6,
+        "name": "Chicago Bulls",
+        "conference": "Eastern",
+        "division": "Central",
+        "arena": "United Center",
+        "logo_url": "URL_TO_CHICAGO_BULLS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Billy Donovan",
+          "assistant_coaches": [
+            "Chris Fleming",
+            "Josh Longstaff",
+            "John Bryant",
+            "Maurice Cheeks"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 71,
+            "name": "Josh Giddey",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_JOSH_GIDDEY_PHOTO"
+          },
+          {
+            "player_id": 72,
+            "name": "Zach LaVine",
+            "position": "SG",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_ZACH_LAVINE_PHOTO"
+          },
+          {
+            "player_id": 73,
+            "name": "DeMar DeRozan",
+            "position": "SF",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_DEMAR_DEROZAN_PHOTO"
+          },
+          {
+            "player_id": 74,
+            "name": "Patrick Williams",
+            "position": "PF",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_PATRICK_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 75,
+            "name": "Nikola Vucevic",
+            "position": "C",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_NIKOLA_VUCEVIC_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 76,
+            "name": "Ayo Dosunmu",
+            "position": "PG/SG",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_AYO_DOSUNMU_PHOTO"
+          },
+          {
+            "player_id": 77,
+            "name": "Coby White",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_COBY_WHITE_PHOTO"
+          },
+          {
+            "player_id": 78,
+            "name": "Alex Caruso",
+            "position": "PG/SG",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_ALEX_CARUSO_PHOTO"
+          },
+          {
+            "player_id": 79,
+            "name": "Dalen Terry",
+            "position": "SG/SF",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_DALEN_TERRY_PHOTO"
+          },
+          {
+            "player_id": 80,
+            "name": "Torrey Craig",
+            "position": "SF/PF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_TORREY_CRAIG_PHOTO"
+          },
+          {
+            "player_id": 81,
+            "name": "Lonzo Ball",
+            "position": "PG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_LONZO_BALL_PHOTO"
+          },
+          {
+            "player_id": 82,
+            "name": "Julian Phillips",
+            "position": "SF",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_JULIAN_PHILLIPS_PHOTO"
+          },
+          {
+            "player_id": 83,
+            "name": "Onuralp Bitim",
+            "position": "SG/SF",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_ONURALP_BITIM_PHOTO"
+          },
+          {
+            "player_id": 84,
+            "name": "Andre Drummond",
+            "position": "C",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_ANDRE_DRUMMOND_PHOTO"
+          }
+        ]
+      }
+    ],
+    "Southeast": [
+      {
+        "team_id": 11,
+        "name": "Atlanta Hawks",
+        "conference": "Eastern",
+        "division": "Southeast",
+        "arena": "State Farm Arena",
+        "logo_url": "URL_TO_ATLANTA_HAWKS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Quin Snyder",
+          "assistant_coaches": [
+            "Joe Prunty",
+            "Matt Hill",
+            "Sanjay Lumpkin",
+            "Mike Longabardi"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 138,
+            "name": "Trae Young",
+            "position": "PG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_TRAE_YOUNG_PHOTO"
+          },
+          {
+            "player_id": 139,
+            "name": "Dejounte Murray",
+            "position": "SG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_DEJOUNTE_MURRAY_PHOTO"
+          },
+          {
+            "player_id": 140,
+            "name": "Bogdan Bogdanović",
+            "position": "SF",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_BOGDAN_BOGDANOVIC_PHOTO"
+          },
+          {
+            "player_id": 141,
+            "name": "Jalen Johnson",
+            "position": "PF",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_JALEN_JOHNSON_PHOTO"
+          },
+          {
+            "player_id": 142,
+            "name": "Clint Capela",
+            "position": "C",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_CLINT_CAPELA_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 143,
+            "name": "Onyeka Okongwu",
+            "position": "C",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_ONYEKA_OKONGWU_PHOTO"
+          },
+          {
+            "player_id": 144,
+            "name": "Saddiq Bey",
+            "position": "SF/PF",
+            "jersey_number": 41,
+            "photo_url": "URL_TO_SADDIQ_BEY_PHOTO"
+          },
+          {
+            "player_id": 145,
+            "name": "De'Andre Hunter",
+            "position": "SF",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_DEANDRE_HUNTER_PHOTO"
+          },
+          {
+            "player_id": 146,
+            "name": "Bruno Fernando",
+            "position": "C",
+            "jersey_number": 24,
+            "photo_url": "URL_TO_BRUNO_FERNANDO_PHOTO"
+          },
+          {
+            "player_id": 147,
+            "name": "Garrison Mathews",
+            "position": "SG",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_GARRISON_MATHEWS_PHOTO"
+          },
+          {
+            "player_id": 148,
+            "name": "Wesley Matthews",
+            "position": "SG/SF",
+            "jersey_number": 32,
+            "photo_url": "URL_TO_WESLEY_MATTHEWS_PHOTO"
+          },
+          {
+            "player_id": 149,
+            "name": "Trent Forrest",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_TRENT_FORREST_PHOTO"
+          },
+          {
+            "player_id": 150,
+            "name": "Vit Krejci",
+            "position": "SG",
+            "jersey_number": 27,
+            "photo_url": "URL_TO_VIT_KREJCI_PHOTO"
+          },
+          {
+            "player_id": 151,
+            "name": "Mouhamed Gueye",
+            "position": "PF",
+            "jersey_number": 18,
+            "photo_url": "URL_TO_MOUHAMED_GUEYE_PHOTO"
+          }
+        ]
+      }
+    ]
+  },
+  "Western": {
+    "Northwest": [
+      {
+        "team_id": 16,
+        "name": "Denver Nuggets",
+        "conference": "Western",
+        "division": "Northwest",
+        "arena": "Ball Arena",
+        "logo_url": "URL_TO_DENVER_NUGGETS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Michael Malone",
+          "assistant_coaches": [
+            "David Adelman",
+            "Popeye Jones",
+            "Ryan Saunders",
+            "Jordi Fernandez"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 208,
+            "name": "Jamal Murray",
+            "position": "PG",
+            "jersey_number": 27,
+            "photo_url": "URL_TO_JAMAL_MURRAY_PHOTO"
+          },
+          {
+            "player_id": 209,
+            "name": "Kentavious Caldwell-Pope",
+            "position": "SG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_KENTAVIOUS_CALDWELL_POPE_PHOTO"
+          },
+          {
+            "player_id": 210,
+            "name": "Michael Porter Jr.",
+            "position": "SF",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_MICHAEL_PORTER_JR_PHOTO"
+          },
+          {
+            "player_id": 211,
+            "name": "Aaron Gordon",
+            "position": "PF",
+            "jersey_number": 50,
+            "photo_url": "URL_TO_AARON_GORDON_PHOTO"
+          },
+          {
+            "player_id": 212,
+            "name": "Nikola Jokić",
+            "position": "C",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_NIKOLA_JOKIC_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 213,
+            "name": "Reggie Jackson",
+            "position": "PG",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_REGGIE_JACKSON_PHOTO"
+          },
+          {
+            "player_id": 214,
+            "name": "Christian Braun",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_CHRISTIAN_BRAUN_PHOTO"
+          },
+          {
+            "player_id": 215,
+            "name": "Peyton Watson",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_PEYTON_WATSON_PHOTO"
+          },
+          {
+            "player_id": 216,
+            "name": "Zeke Nnaji",
+            "position": "PF",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_ZEKE_NNAJI_PHOTO"
+          },
+          {
+            "player_id": 217,
+            "name": "DeAndre Jordan",
+            "position": "C",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_DEANDRE_JORDAN_PHOTO"
+          },
+          {
+            "player_id": 218,
+            "name": "Julian Strawther",
+            "position": "SG",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_JULIAN_STRAWTHER_PHOTO"
+          },
+          {
+            "player_id": 219,
+            "name": "Hunter Tyson",
+            "position": "SF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_HUNTER_TYSON_PHOTO"
+          },
+          {
+            "player_id": 220,
+            "name": "Collin Gillespie",
+            "position": "PG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_COLLIN_GILLESPIE_PHOTO"
+          },
+          {
+            "player_id": 221,
+            "name": "Vlatko Čančar",
+            "position": "SF",
+            "jersey_number": 31,
+            "photo_url": "URL_TO_VLATKO_CANCAR_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 17,
+        "name": "Minnesota Timberwolves",
+        "conference": "Western",
+        "division": "Northwest",
+        "arena": "Target Center",
+        "logo_url": "URL_TO_MINNESOTA_TIMBERWOLVES_LOGO",
+        "coaching_staff": {
+          "head_coach": "Chris Finch",
+          "assistant_coaches": [
+            "Pablo Prigioni",
+            "Joe Boylan",
+            "Elston Turner",
+            "Greg St. Jean"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 222,
+            "name": "Mike Conley",
+            "position": "PG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_MIKE_CONLEY_PHOTO"
+          },
+          {
+            "player_id": 223,
+            "name": "Anthony Edwards",
+            "position": "SG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_ANTHONY_EDWARDS_PHOTO"
+          },
+          {
+            "player_id": 224,
+            "name": "Jaden McDaniels",
+            "position": "SF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_JADEN_MCDANIELS_PHOTO"
+          },
+          {
+            "player_id": 225,
+            "name": "Karl-Anthony Towns",
+            "position": "PF",
+            "jersey_number": 32,
+            "photo_url": "URL_TO_KARL_ANTHONY_TOWNS_PHOTO"
+          },
+          {
+            "player_id": 226,
+            "name": "Rudy Gobert",
+            "position": "C",
+            "jersey_number": 27,
+            "photo_url": "URL_TO_RUDY_GOBERT_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 227,
+            "name": "Naz Reid",
+            "position": "C",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_NAZ_REID_PHOTO"
+          },
+          {
+            "player_id": 228,
+            "name": "Kyle Anderson",
+            "position": "SF/PF",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_KYLE_ANDERSON_PHOTO"
+          },
+          {
+            "player_id": 229,
+            "name": "Nickeil Alexander-Walker",
+            "position": "SG",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_NICKEIL_ALEXANDER_WALKER_PHOTO"
+          },
+          {
+            "player_id": 230,
+            "name": "Jordan McLaughlin",
+            "position": "PG",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_JORDAN_MCLAUGHLIN_PHOTO"
+          },
+          {
+            "player_id": 231,
+            "name": "Shake Milton",
+            "position": "SG",
+            "jersey_number": 18,
+            "photo_url": "URL_TO_SHAKE_MILTON_PHOTO"
+          },
+          {
+            "player_id": 232,
+            "name": "Troy Brown Jr.",
+            "position": "SF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_TROY_BROWN_JR_PHOTO"
+          },
+          {
+            "player_id": 233,
+            "name": "Josh Minott",
+            "position": "PF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_JOSH_MINOTT_PHOTO"
+          },
+          {
+            "player_id": 234,
+            "name": "Wendell Moore Jr.",
+            "position": "SG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_WENDELL_MOORE_JR_PHOTO"
+          },
+          {
+            "player_id": 235,
+            "name": "Luka Garza",
+            "position": "C",
+            "jersey_number": 55,
+            "photo_url": "URL_TO_LUKA_GARZA_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 18,
+        "name": "Oklahoma City Thunder",
+        "conference": "Western",
+        "division": "Northwest",
+        "arena": "Paycom Center",
+        "logo_url": "URL_TO_OKLAHOMA_CITY_THUNDER_LOGO",
+        "coaching_staff": {
+          "head_coach": "Mark Daigneault",
+          "assistant_coaches": [
+            "David Akinyooye",
+            "Eric Maynor",
+            "Mike Miller",
+            "Kameron Woods"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 236,
+            "name": "Shai Gilgeous-Alexander",
+            "position": "PG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_SHAI_GILGEOUS_ALEXANDER_PHOTO"
+          },
+          {
+            "player_id": 237,
+            "name": "Josh Giddey",
+            "position": "SG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_JOSH_GIDDEY_PHOTO"
+          },
+          {
+            "player_id": 238,
+            "name": "Luguentz Dort",
+            "position": "SF",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_LUGUENTZ_DORT_PHOTO"
+          },
+          {
+            "player_id": 239,
+            "name": "Jalen Williams",
+            "position": "PF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_JALEN_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 240,
+            "name": "Chet Holmgren",
+            "position": "C",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_CHET_HOLMGREN_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 241,
+            "name": "Isaiah Joe",
+            "position": "SG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_ISAIAH_JOE_PHOTO"
+          },
+          {
+            "player_id": 242,
+            "name": "Cason Wallace",
+            "position": "PG",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_CASON_WALLACE_PHOTO"
+          },
+          {
+            "player_id": 243,
+            "name": "Aaron Wiggins",
+            "position": "SF",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_AARON_WIGGINS_PHOTO"
+          },
+          {
+            "player_id": 244,
+            "name": "Jaylin Williams",
+            "position": "PF",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_JAYLIN_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 245,
+            "name": "Kenrich Williams",
+            "position": "SF",
+            "jersey_number": 34,
+            "photo_url": "URL_TO_KENRICH_WILLIAMS_PHOTO"
+          },
+          {
+            "player_id": 246,
+            "name": "Ousmane Dieng",
+            "position": "SF",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_OUSMANE_DIENG_PHOTO"
+          },
+          {
+            "player_id": 247,
+            "name": "Tre Mann",
+            "position": "PG",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_TRE_MANN_PHOTO"
+          },
+          {
+            "player_id": 248,
+            "name": "Aleksej Pokuševski",
+            "position": "PF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_ALEKSEJ_POKUŠEVSKI_PHOTO"
+          },
+          {
+            "player_id": 249,
+            "name": "Davis Bertans",
+            "position": "PF",
+            "jersey_number": 42,
+            "photo_url": "URL_TO_DAVIS_BERTANS_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 19,
+        "name": "Portland Trail Blazers",
+        "conference": "Western",
+        "division": "Northwest",
+        "arena": "Moda Center",
+        "logo_url": "URL_TO_PORTLAND_TRAIL_BLAZERS_LOGO",
+        "coaching_staff": {
+          "head_coach": "Chauncey Billups",
+          "assistant_coaches": ["Scott Brooks", "Roy Rogers", "Steve Hetzel"]
+        },
+        "starting_five": [
+          {
+            "player_id": 250,
+            "name": "Scoot Henderson",
+            "position": "PG",
+            "jersey_number": 0.0,
+            "photo_url": "URL_TO_SCOOT_HENDERSON_PHOTO"
+          },
+          {
+            "player_id": 251,
+            "name": "Anfernee Simons",
+            "position": "SG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_ANFERNEE_SIMONS_PHOTO"
+          },
+          {
+            "player_id": 252,
+            "name": "Shaedon Sharpe",
+            "position": "SF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_SHAEDON_SHARPE_PHOTO"
+          },
+          {
+            "player_id": 253,
+            "name": "Jerami Grant",
+            "position": "PF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_JERAMI_GRANT_PHOTO"
+          },
+          {
+            "player_id": 254,
+            "name": "Deandre Ayton",
+            "position": "C",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_DEANDRE_AYTON_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 255,
+            "name": "Malcolm Brogdon",
+            "position": "PG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_MALCOLM_BROGDON_PHOTO"
+          },
+          {
+            "player_id": 256,
+            "name": "Matisse Thybulle",
+            "position": "SG",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_MATISSE_THYBULLE_PHOTO"
+          },
+          {
+            "player_id": 257,
+            "name": "Toumani Camara",
+            "position": "SF",
+            "jersey_number": 33,
+            "photo_url": "URL_TO_TOUMANI_CAMARA_PHOTO"
+          },
+          {
+            "player_id": 258,
+            "name": "Jabari Walker",
+            "position": "PF",
+            "jersey_number": 34,
+            "photo_url": "URL_TO_JABARI_WALKER_PHOTO"
+          },
+          {
+            "player_id": 259,
+            "name": "Robert Williams III",
+            "position": "C",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_ROBERT_WILLIAMS_III_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 20,
+        "name": "Utah Jazz",
+        "conference": "Western",
+        "division": "Northwest",
+        "arena": "Vivint Smart Home Arena",
+        "logo_url": "URL_TO_UTAH_JAZZ_LOGO",
+        "coaching_staff": {
+          "head_coach": "Will Hardy",
+          "assistant_coaches": ["Alex Jensen", "Igor Kokoskov", "Sean Sheldon"]
+        },
+        "starting_five": [
+          {
+            "player_id": 260,
+            "name": "Keyonte George",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_KEYONTE_GEORGE_PHOTO"
+          },
+          {
+            "player_id": 261,
+            "name": "Collin Sexton",
+            "position": "SG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_COLLIN_SEXTON_PHOTO"
+          },
+          {
+            "player_id": 262,
+            "name": "Lauri Markkanen",
+            "position": "SF",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_LAURI_MARKKANEN_PHOTO"
+          },
+          {
+            "player_id": 263,
+            "name": "John Collins",
+            "position": "PF",
+            "jersey_number": 20,
+            "photo_url": "URL_TO_JOHN_COLLINS_PHOTO"
+          },
+          {
+            "player_id": 264,
+            "name": "Walker Kessler",
+            "position": "C",
+            "jersey_number": 24,
+            "photo_url": "URL_TO_WALKER_KESSLER_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 265,
+            "name": "Jordan Clarkson",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_JORDAN_CLARKSON_PHOTO"
+          },
+          {
+            "player_id": 266,
+            "name": "Talen Horton-Tucker",
+            "position": "SG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_TALEN_HORTON-TUCKER_PHOTO"
+          },
+          {
+            "player_id": 267,
+            "name": "Kris Dunn",
+            "position": "PG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_KRIS_DUNN_PHOTO"
+          },
+          {
+            "player_id": 268,
+            "name": "Omer Yurtseven",
+            "position": "C",
+            "jersey_number": 77,
+            "photo_url": "URL_TO_OMER_YURTSEVEN_PHOTO"
+          },
+          {
+            "player_id": 269,
+            "name": "Taylor Hendricks",
+            "position": "PF",
+            "jersey_number": 33,
+            "photo_url": "URL_TO_TAYLOR_HENDRICKS_PHOTO"
+          },
+          {
+            "player_id": 270,
+            "name": "Brice Sensabaugh",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_BRICE_SENSABAUGH_PHOTO"
+          },
+          {
+            "player_id": 271,
+            "name": "Johnny Juzang",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_JOHNNY_JUZANG_PHOTO"
+          },
+          {
+            "player_id": 272,
+            "name": "Micah Potter",
+            "position": "C",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_MICAH_POTTER_PHOTO"
+          },
+          {
+            "player_id": 273,
+            "name": "Luka Šamanić",
+            "position": "PF",
+            "jersey_number": 19,
+            "photo_url": "URL_TO_LUKA_ŠAMANIĆ_PHOTO"
+          }
+        ]
+      }
+    ],
+    "Pacific": [
+      {
+        "team_id": 21,
+        "name": "Golden State Warriors",
+        "conference": "Western",
+        "division": "Pacific",
+        "arena": "Chase Center",
+        "coaching_staff": {
+          "head_coach": "Steve Kerr",
+          "assistant_coaches": [
+            "Kenny Atkinson",
+            "Chris DeMarco",
+            "Jama Mahlalela",
+            "Dejan Milojević"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 274,
+            "name": "Stephen Curry",
+            "position": "PG",
+            "jersey_number": 30,
+            "photo_url": "URL_TO_STEPHEN_CURRY_PHOTO"
+          },
+          {
+            "player_id": 275,
+            "name": "Klay Thompson",
+            "position": "SG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_KLAY_THOMPSON_PHOTO"
+          },
+          {
+            "player_id": 276,
+            "name": "Andrew Wiggins",
+            "position": "SF",
+            "jersey_number": 22,
+            "photo_url": "URL_TO_ANDREW_WIGGINS_PHOTO"
+          },
+          {
+            "player_id": 277,
+            "name": "Draymond Green",
+            "position": "PF",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_DRAYMOND_GREEN_PHOTO"
+          },
+          {
+            "player_id": 278,
+            "name": "Kevon Looney",
+            "position": "C",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_KEVON_LOONEY_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 279,
+            "name": "Chris Paul",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_CHRIS_PAUL_PHOTO"
+          },
+          {
+            "player_id": 280,
+            "name": "Gary Payton II",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_GARY_PAYTON_II_PHOTO"
+          },
+          {
+            "player_id": 281,
+            "name": "Jonathan Kuminga",
+            "position": "SF",
+            "jersey_number": 0.0,
+            "photo_url": "URL_TO_JONATHAN_KUMINGA_PHOTO"
+          },
+          {
+            "player_id": 282,
+            "name": "Dario Šarić",
+            "position": "PF",
+            "jersey_number": 20,
+            "photo_url": "URL_TO_DARIO_ŠARIĆ_PHOTO"
+          },
+          {
+            "player_id": 283,
+            "name": "Moses Moody",
+            "position": "SG",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_MOSES_MOODY_PHOTO"
+          },
+          {
+            "player_id": 284,
+            "name": "Brandin Podziemski",
+            "position": "SG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_BRANDIN_PODZIEMSKI_PHOTO"
+          },
+          {
+            "player_id": 285,
+            "name": "Trayce Jackson-Davis",
+            "position": "C",
+            "jersey_number": 32,
+            "photo_url": "URL_TO_TRAYCE_JACKSON-DAVIS_PHOTO"
+          },
+          {
+            "player_id": 286,
+            "name": "Jerome Robinson",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_JEROME_ROBINSON_PHOTO"
+          },
+          {
+            "player_id": 287,
+            "name": "Usman Garuba",
+            "position": "PF",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_USMAN_GARUBA_PHOTO"
+          }
+        ]
+      },
+      {
+        "team_id": 22,
+        "name": "Los Angeles Clippers",
+        "conference": "Western",
+        "division": "Pacific",
+        "arena": "Intuit Dome"
+      },
+      {
+        "team_id": 23,
+        "name": "Los Angeles Lakers",
+        "conference": "Western",
+        "division": "Pacific",
+        "arena": "Crypto.com Arena"
+      },
+      {
+        "team_id": 24,
+        "name": "Phoenix Suns",
+        "conference": "Western",
+        "division": "Pacific",
+        "arena": "Footprint Center"
+      },
+      {
+        "team_id": 25,
+        "name": "Sacramento Kings",
+        "conference": "Western",
+        "division": "Pacific",
+        "arena": "Golden 1 Center"
+      }
+    ]
+  }
+}
