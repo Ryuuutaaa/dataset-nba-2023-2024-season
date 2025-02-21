@@ -568,7 +568,109 @@
               "photo_url": "URL_TO_JON_GOODWILLIE_PHOTO"
             }
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 57,
+            "name": "Immanuel Quickley",
+            "position": "PG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_IMMANUEL_QUICKLEY_PHOTO"
+          },
+          {
+            "player_id": 58,
+            "name": "Gradey Dick",
+            "position": "SG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_GRADEY_DICK_PHOTO"
+          },
+          {
+            "player_id": 59,
+            "name": "RJ Barrett",
+            "position": "SF",
+            "jersey_number": 9,
+            "photo_url": "URL_TO_RJ_BARRETT_PHOTO"
+          },
+          {
+            "player_id": 60,
+            "name": "Scottie Barnes",
+            "position": "PF",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_SCOTTIE_BARNES_PHOTO"
+          },
+          {
+            "player_id": 61,
+            "name": "Jakob Poeltl",
+            "position": "C",
+            "jersey_number": 19,
+            "photo_url": "URL_TO_JAKOB_POELTL_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 62,
+            "name": "Bruce Brown",
+            "position": "SG/SF",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_BRUCE_BROWN_PHOTO"
+          },
+          {
+            "player_id": 63,
+            "name": "Chris Boucher",
+            "position": "PF/C",
+            "jersey_number": 25,
+            "photo_url": "URL_TO_CHRIS_BOUCHE"
+          },
+          {
+            "player_id": 64,
+            "name": "Kelly Olynyk",
+            "position": "C/PF",
+            "jersey_number": 41,
+            "photo_url": "URL_TO_KELLY_OLYNYK_PHOTO"
+          },
+          {
+            "player_id": 65,
+            "name": "Davion Mitchell",
+            "position": "PG",
+            "jersey_number": 45,
+            "photo_url": "URL_TO_DAVION_MITCHELL_PHOTO"
+          },
+          {
+            "player_id": 66,
+            "name": "Ochai Agbaji",
+            "position": "SG/SF",
+            "jersey_number": 30,
+            "photo_url": "URL_TO_OCHAI_AGBAJI_PHOTO"
+          },
+          {
+            "player_id": 67,
+            "name": "Garrett Temple",
+            "position": "SG/SF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_GARRETT_TEMPLE_PHOTO"
+          },
+          {
+            "player_id": 68,
+            "name": "Jalen McDaniels",
+            "position": "PF",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_JALEN_MCDANIELS_PHOTO"
+          },
+          {
+            "player_id": 69,
+            "name": "Javon Freeman-Liberty",
+            "position": "PG/SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_JAVON_FREEMAN_LIBERTY_PHOTO"
+          },
+          {
+            "player_id": 70,
+            "name": "D.J. Carton",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_DJ_CARTON_PHOTO"
+          }
+        ]
       }
     ],
     "Central": [
