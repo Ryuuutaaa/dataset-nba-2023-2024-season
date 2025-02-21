@@ -1412,8 +1412,100 @@
             "Bryan Gates",
             "Miles Simon"
           ]
-        }
-      },
+        },
+        "starting_five": [
+          {
+            "player_id": 316,
+            "name": "Bradley Beal",
+            "position": "PG",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_BRADLEY_BEAL_PHOTO"
+          },
+          {
+            "player_id": 317,
+            "name": "Devin Booker",
+            "position": "SG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_DEVIN_BOOKER_PHOTO"
+          },
+          {
+            "player_id": 318,
+            "name": "Kevin Durant",
+            "position": "SF",
+            "jersey_number": 35,
+            "photo_url": "URL_TO_KEVIN_DURANT_PHOTO"
+          },
+          {
+            "player_id": 319,
+            "name": "Jusuf Nurkić",
+            "position": "C",
+            "jersey_number": 20,
+            "photo_url": "URL_TO_JUSUF_NURKIC_PHOTO"
+          },
+          {
+            "player_id": 320,
+            "name": "Drew Eubanks",
+            "position": "C",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_DREW_EUBANKS_PHOTO"
+          }
+        ],
+        "bench_players": [
+          {
+            "player_id": 321,
+            "name": "Grayson Allen",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_GRAYSON_ALLEN_PHOTO"
+          },
+          {
+            "player_id": 322,
+            "name": "Eric Gordon",
+            "position": "SG",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_ERIC_GORDON_PHOTO"
+          },
+          {
+            "player_id": 323,
+            "name": "Josh Okogie",
+            "position": "SF",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_JOSH_OKOGIE_PHOTO"
+          },
+          {
+            "player_id": 324,
+            "name": "Keita Bates-Diop",
+            "position": "SF",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_KEITA_BATES_DIOP_PHOTO"
+          },
+          {
+            "player_id": 325,
+            "name": "Yuta Watanabe",
+            "position": "SF",
+            "jersey_number": 18,
+            "photo_url": "URL_TO_YUTA_WATANABE_PHOTO"
+          },
+          {
+            "player_id": 326,
+            "name": "Chimezie Metu",
+            "position": "PF",
+            "jersey_number": 4,
+            "photo_url": "URL_TO_CHIMEZIE_METU_PHOTO"
+          },
+          {
+            "player_id": 328,
+            "name": "Bol Bol",
+            "position": "C",
+            "jersey_number": 11
+          },
+          {
+            "player_id": 329,
+            "name": "Saben Lee",
+            "position": "PG",
+            "jersey_number": 38
+          },
+          
       {
         "team_id": 25,
         "name": "Sacramento Kings",
