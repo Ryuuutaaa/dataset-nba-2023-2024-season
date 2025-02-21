@@ -1167,7 +1167,118 @@
         "name": "Los Angeles Clippers",
         "conference": "Western",
         "division": "Pacific",
-        "arena": "Intuit Dome"
+        "arena": "Intuit Dome",
+        "coaching_staff": {
+          "head_coach": "Tyronn Lue",
+          "assistant_coaches": [
+            "Dan Craig",
+            "Larry Drew",
+            "Jay Larranaga",
+            "Brendan O'Connor"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 288,
+            "name": "James Harden",
+            "position": "PG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_JAMES_HARDEN_PHOTO"
+          },
+          {
+            "player_id": 289,
+            "name": "Paul George",
+            "position": "SG",
+            "jersey_number": 13,
+            "photo_url": "URL_TO_PAUL_GEORGE_PHOTO"
+          },
+          {
+            "player_id": 290,
+            "name": "Kawhi Leonard",
+            "position": "SF",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_KAWHI_LEONARD_PHOTO"
+          },
+          {
+            "player_id": 291,
+            "name": "P.J. Tucker",
+            "position": "PF",
+            "jersey_number": 17,
+            "photo_url": "URL_TO_PJ_TUCKER_PHOTO"
+          },
+          {
+            "player_id": 292,
+            "name": "Ivica Zubac",
+            "position": "C",
+            "jersey_number": 40,
+            "photo_url": "URL_TO_IVICA_ZUBAC_PHOTO"
+          }
+        ],
+        "bench": [
+          {
+            "player_id": 293,
+            "name": "Russell Westbrook",
+            "position": "PG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_RUSSELL_WESTBROOK_PHOTO"
+          },
+          {
+            "player_id": 294,
+            "name": "Norman Powell",
+            "position": "SG",
+            "jersey_number": 24,
+            "photo_url": "URL_TO_NORMAN_POWELL_PHOTO"
+          },
+          {
+            "player_id": 295,
+            "name": "Terance Mann",
+            "position": "SF",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_TERANCE_MANN_PHOTO"
+          },
+          {
+            "player_id": 296,
+            "name": "Mason Plumlee",
+            "position": "C",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_MASON_PLUMLEE_PHOTO"
+          },
+          {
+            "player_id": 297,
+            "name": "Bones Hyland",
+            "position": "PG",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_BONES_HYLAND_PHOTO"
+          },
+          {
+            "player_id": 298,
+            "name": "Amir Coffey",
+            "position": "SF",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_AMIR_COFFEY_PHOTO"
+          },
+          {
+            "player_id": 299,
+            "name": "Brandon Boston Jr.",
+            "position": "SG",
+            "jersey_number": 4,
+            "photo_url": "URL_TO BRANDON_BOSTON_JR_PHOTO"
+          },
+          {
+            "player_id": 300,
+            "name": "Daniel Theis",
+            "position": "C",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_DANIEL_THEIS_PHOTO"
+          },
+          {
+            "player_id": 301,
+            "name": "Xavier Moon",
+            "position": "PG",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_XAVIER_MOON_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 23,
