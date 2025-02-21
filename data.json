@@ -1749,7 +1749,16 @@
         "name": "Houston Rockets",
         "conference": "Western",
         "division": "Southwest",
-        "arena": "Toyota Center"
+        "arena": "Toyota Center",
+        "coaching_staff": {
+          "head_coach": "Ime Udoka",
+          "assistant_coaches": [
+            "Ben Sullivan",
+            "Rodney Billups",
+            "Mahmoud Abdelfattah",
+            "Mike Batiste"
+          ]
+        }
       },
       {
         "team_id": 28,
