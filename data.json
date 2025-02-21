@@ -1285,14 +1285,134 @@
         "name": "Los Angeles Lakers",
         "conference": "Western",
         "division": "Pacific",
-        "arena": "Crypto.com Arena"
+        "arena": "Crypto.com Arena",
+        "coaching_staff": {
+          "head_coach": "JJ Redick",
+          "assistant_coaches": [
+            "Phil Handy",
+            "Nate McMillan",
+            "Greg St. Jean",
+            "Beau Levesque"
+          ]
+        },
+        "starting_five": [
+          {
+            "player_id": 302,
+            "name": "D'Angelo Russell",
+            "position": "PG",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_DANGELO_RUSSELL_PHOTO"
+          },
+          {
+            "player_id": 303,
+            "name": "Austin Reaves",
+            "position": "SG",
+            "jersey_number": 15,
+            "photo_url": "URL_TO_AUSTIN_REAVES_PHOTO"
+          },
+          {
+            "player_id": 304,
+            "name": "LeBron James",
+            "position": "SF",
+            "jersey_number": 6,
+            "photo_url": "URL_TO_LEBRON_JAMES_PHOTO"
+          },
+          {
+            "player_id": 305,
+            "name": "Anthony Davis",
+            "position": "PF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_ANTHONY_DAVIS_PHOTO"
+          },
+          {
+            "player_id": 306,
+            "name": "Jaxson Hayes",
+            "position": "C",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_JAXSON_HAYES_PHOTO"
+          }
+        ],
+        "bench": [
+          {
+            "player_id": 307,
+            "name": "Rui Hachimura",
+            "position": "PF",
+            "jersey_number": 28,
+            "photo_url": "URL_TO_RUI_HACHIMURA_PHOTO"
+          },
+          {
+            "player_id": 308,
+            "name": "Taurean Prince",
+            "position": "SF",
+            "jersey_number": 12,
+            "photo_url": "URL_TO_TAUREAN_PRINCE_PHOTO"
+          },
+          {
+            "player_id": 309,
+            "name": "Cam Reddish",
+            "position": "SF",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_CAM_REDDISH_PHOTO"
+          },
+          {
+            "player_id": 310,
+            "name": "Gabe Vincent",
+            "position": "PG",
+            "jersey_number": 7,
+            "photo_url": "URL_TO_GABE_VINCENT_PHOTO"
+          },
+          {
+            "player_id": 311,
+            "name": "Christian Wood",
+            "position": "C",
+            "jersey_number": 35,
+            "photo_url": "URL_TO_CHRISTIAN_WOOD_PHOTO"
+          },
+          {
+            "player_id": 312,
+            "name": "Jalen Hood-Schifino",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_JALEN_HOODSCHIFINO_PHOTO"
+          },
+          {
+            "player_id": 313,
+            "name": "Max Christie",
+            "position": "SG",
+            "jersey_number": 10,
+            "photo_url": "URL_TO_MAX_CHRISTIE_PHOTO"
+          },
+          {
+            "player_id": 314,
+            "name": "Colin Castleton",
+            "position": "C",
+            "jersey_number": 14,
+            "photo_url": "URL_TO_COLIN_CASTLETON_PHOTO"
+          },
+          {
+            "player_id": 315,
+            "name": "Maxwell Lewis",
+            "position": "SF",
+            "jersey_number": 21,
+            "photo_url": "URL_TO_MAXWELL_LEWIS_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 24,
         "name": "Phoenix Suns",
         "conference": "Western",
         "division": "Pacific",
-        "arena": "Footprint Center"
+        "arena": "Footprint Center",
+        "coaching_staff": {
+          "head_coach": "Mike Budenholzer",
+          "assistant_coaches": [
+            "Kevin Young",
+            "Jarrett Jack",
+            "Bryan Gates",
+            "Miles Simon"
+          ]
+        }
       },
       {
         "team_id": 25,
