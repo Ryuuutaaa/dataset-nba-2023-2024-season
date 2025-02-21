@@ -298,7 +298,109 @@
               "photo_url": "URL_TO_LARRY_GREER_PHOTO"
             }
           ]
-        }
+        },
+        "starting_five": [
+          {
+            "player_id": 29,
+            "name": "Jalen Brunson",
+            "position": "PG",
+            "jersey_number": 11,
+            "photo_url": "URL_TO_JALEN_BRUNSON_PHOTO"
+          },
+          {
+            "player_id": 30,
+            "name": "Donte DiVincenzo",
+            "position": "SG",
+            "jersey_number": 0,
+            "photo_url": "URL_TO_DONTE_DIVINCENZO_PHOTO"
+          },
+          {
+            "player_id": 31,
+            "name": "OG Anunoby",
+            "position": "SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_OG_ANUNOBY_PHOTO"
+          },
+          {
+            "player_id": 32,
+            "name": "Julius Randle",
+            "position": "PF",
+            "jersey_number": 30,
+            "photo_url": "URL_TO_JULIUS_RANDLE_PHOTO"
+          },
+          {
+            "player_id": 33,
+            "name": "Mitchell Robinson",
+            "position": "C",
+            "jersey_number": 23,
+            "photo_url": "URL_TO_MITCHELL_ROBINSON_PHOTO"
+          }
+        ],
+        "bench": [
+          {
+            "player_id": 34,
+            "name": "Josh Hart",
+            "position": "SG/SF",
+            "jersey_number": 3,
+            "photo_url": "URL_TO_JOSH_HART_PHOTO"
+          },
+          {
+            "player_id": 35,
+            "name": "Miles McBride",
+            "position": "PG",
+            "jersey_number": 2,
+            "photo_url": "URL_TO_MILES_MCBRIDE_PHOTO"
+          },
+          {
+            "player_id": 36,
+            "name": "Isaiah Hartenstein",
+            "position": "C",
+            "jersey_number": 55,
+            "photo_url": "URL_TO_ISAIAH_HARTENSTEIN_PHOTO"
+          },
+          {
+            "player_id": 37,
+            "name": "Alec Burks",
+            "position": "SG",
+            "jersey_number": 18,
+            "photo_url": "URL_TO_ALEC_BURKS_PHOTO"
+          },
+          {
+            "player_id": 38,
+            "name": "Precious Achiuwa",
+            "position": "PF/C",
+            "jersey_number": 5,
+            "photo_url": "URL_TO_PRECIOUS_ACHIUWA_PHOTO"
+          },
+          {
+            "player_id": 39,
+            "name": "DaQuan Jeffries",
+            "position": "SG/SF",
+            "jersey_number": 8,
+            "photo_url": "URL_TO_DAQUAN_JEFFRIES_PHOTO"
+          },
+          {
+            "player_id": 40,
+            "name": "Jericho Sims",
+            "position": "C",
+            "jersey_number": 45,
+            "photo_url": "URL_TO_JERICH"
+          },
+          {
+            "player_id": 41,
+            "name": "Charlie Brown Jr.",
+            "position": "SG",
+            "jersey_number": 44,
+            "photo_url": "URL_TO_CHARLIE_BROWN_JR_PHOTO"
+          },
+          {
+            "player_id": 42,
+            "name": "Jacob Toppin",
+            "position": "PF",
+            "jersey_number": 1,
+            "photo_url": "URL_TO_JACOB_TOPPIN_PHOTO"
+          }
+        ]
       },
       {
         "team_id": 4,
