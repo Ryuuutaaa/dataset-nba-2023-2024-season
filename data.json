@@ -7,14 +7,28 @@
         "conference": "Eastern",
         "division": "Atlantic",
         "arena": "TD Garden",
+        "arena_photo_url": "URL_TO_TD_GARDEN_PHOTO",
         "logo_url": "URL_TO_BOSTON_CELTICS_LOGO",
         "coaching_staff": {
           "head_coach": "Joe Mazzulla",
+          "head_coach_photo_url": "URL_TO_JOE_MAZZULLA_PHOTO",
           "assistant_coaches": [
-            "Charles Lee",
-            "Sam Cassell",
-            "Aaron Miles",
-            "D.J. MacLeay"
+            {
+              "name": "Charles Lee",
+              "photo_url": "URL_TO_CHARLES_LEE_PHOTO"
+            },
+            {
+              "name": "Sam Cassell",
+              "photo_url": "URL_TO_SAM_CASSELL_PHOTO"
+            },
+            {
+              "name": "Aaron Miles",
+              "photo_url": "URL_TO_AARON_MILES_PHOTO"
+            },
+            {
+              "name": "D.J. MacLeay",
+              "photo_url": "URL_TO_DJ_MACLEAY_PHOTO"
+            }
           ]
         },
         "starting_five": [
